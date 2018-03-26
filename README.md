@@ -1,4 +1,7 @@
-# records
+# Records
+
+An example project repository for PDSB. The records library provides tools for querying the GBIF database using its public REST API, and to efficiently collect large numbers of records while following limitations on queries. Results are returned as Pandas dataframes.
+
 ### Installation
 ```bash
 git clone https://github.com/programming-for-bio/records
